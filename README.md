@@ -14,7 +14,7 @@
 To install the application follow the instructions below:
 
 ``` Javascript
-	git clone git@github.com:angrbrd/friend-finder.git
+	git clone git@github.com:fireatwillrva/FriendFinder.git
 	cd friend-finder
 	npm install
 ```
